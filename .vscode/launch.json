@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "flutterdocker",
+            "request": "launch",
+            "type": "dart"
+
+        },
+        {
+            "name": "flutterdocker(profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutterdoker (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+    
+        }
+
+    ]
+    
+}
